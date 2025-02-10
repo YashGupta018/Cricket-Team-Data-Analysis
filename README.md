@@ -1,1 +1,1 @@
-# Indian-Cricket-Team-Data-Analysis
+# Cricket-Team-Data-Analysis
